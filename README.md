@@ -1,1 +1,1 @@
-# streamlit.app.py
+# streamlitとplotlyを使ったダッシュボード
